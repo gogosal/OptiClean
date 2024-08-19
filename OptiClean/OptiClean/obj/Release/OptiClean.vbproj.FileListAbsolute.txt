@@ -1,0 +1,11 @@
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\bin\Release\OptiClean.exe.config
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\bin\Release\OptiClean.exe
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\bin\Release\OptiClean.pdb
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\bin\Release\OptiClean.xml
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.Form1.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.Resources.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.vbproj.GenerateResource.cache
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.vbproj.CoreCompileInputs.cache
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.exe
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.xml
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\OptiClean\OptiClean\OptiClean\obj\Release\OptiClean.pdb
